@@ -1,4 +1,4 @@
-##Gradient Descent
+# Gradient Descent
 
 This Uses the boston housing data to predict data.
 
